@@ -1,1 +1,46 @@
+# README - Análise de Textos
 
+## Descrição
+Este repositório contém exemplos de textos extraídos e suas respectivas análises realizadas pela OpenAI.
+
+## Exemplos
+
+### Exemplo 1: Certificado de Participação
+
+**Texto Extraído:**
+```
+CERTIFICADO
+Certificamos que JOÃO SILVA participou do workshop 
+"Inteligência Artificial Aplicada" realizado nos dias 
+10 e 11 de fevereiro de 2023, com carga horária total 
+de 16 horas.
+São Paulo, 11 de fevereiro de 2023
+```
+
+**Análise da OpenAI:**
+Este é um certificado de participação concedido a João Silva por sua presença 
+no workshop "Inteligência Artificial Aplicada". O evento ocorreu em 10 e 11 
+de fevereiro de 2023, com duração total de 16 horas, em São Paulo.
+
+### Exemplo 2: Placa de Sinalização
+
+**Texto Extraído:**
+```
+PROIBIDO ESTACIONAR
+Segunda a Sexta
+das 7h às 19h
+```
+
+**Análise da OpenAI:**
+A placa comunica uma restrição de estacionamento que se aplica nos dias úteis 
+(segunda a sexta-feira) durante o horário comercial estendido, das 7 horas da 
+manhã até as 19 horas (7h-19h).
+
+## Utilização
+Este repositório pode ser utilizado como referência para:
+- Exemplos de extração de texto de imagens
+- Demonstração de análise de conteúdo textual
+- Casos de uso para processamento de linguagem natural
+
+## Observações
+As análises apresentadas foram geradas pela OpenAI e representam interpretações do conteúdo textual fornecido.
